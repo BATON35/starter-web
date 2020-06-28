@@ -1,0 +1,5 @@
+Na tapczanie
+git init
+git
+dupa
+git dupa
